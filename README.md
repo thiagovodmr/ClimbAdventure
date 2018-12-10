@@ -1,2 +1,0 @@
-# ClimbAdventure
-Protótipo de projeto
